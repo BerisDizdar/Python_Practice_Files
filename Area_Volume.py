@@ -1,0 +1,7 @@
+Length = input('What is the length?\n')
+Width = input('What is the width?\n')
+Height = input('What is the height?\n')
+Area = int(Length) * int(Width)
+print(Area, 'sqft')
+Volume = int(Length) * int(Width) * int(Height)
+print(Volume, 'cuft') 
