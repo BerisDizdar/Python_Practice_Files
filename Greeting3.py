@@ -1,4 +1,4 @@
-hi = 'Hi'
+hi = 'Hello'
 first_name = input("What's your first name?\n")
 
 last_name = input("What's your last name?\n")
