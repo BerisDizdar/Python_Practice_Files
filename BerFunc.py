@@ -3,6 +3,7 @@ def print_Beris():
     print(text)
     print(text)
     print(text)
+    print(text) 
 
 print_Beris()
 
